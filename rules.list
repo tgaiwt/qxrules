@@ -5,6 +5,7 @@ host-suffix,icloud.com,Apple
 host-suffix,icloud.com.cn,Apple
 host-suffix,cdn-apple.com,Apple
 host-suffix,digicert.com,Apple
+host-suffix,mzstatic.com,Apple
 
 # Telegram
 host-suffix,t.me,Telegram
@@ -21,6 +22,7 @@ host-suffix,youtube.com,Google
 host-suffix,gstatic.com,Google
 host-suffix,googleapis.com,Google
 host-suffix,googlevideo.com,Google
+host-suffix,googleapis-cn.com,Google
 host-suffix,googleusercontent.com,Google
 host-suffix,app-measurement.com,Google
 
