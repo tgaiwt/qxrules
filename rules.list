@@ -15,18 +15,27 @@ IP-CIDR,91.108.0.0/16,Telegram
 
 # Google
 host,ocsp.pki.goog,Google
-host-suffix,ytimg.com,Google
-host-suffix,ggpht.com,Google
 host-suffix,google.com,Google
-host-suffix,youtube.com,Google
 host-suffix,gstatic.com,Google
-host-suffix,googleapis.com,Google
-host-suffix,googlevideo.com,Google
+host-suffix,google.com.hk,Goolge
+host-suffix,withgoogle.com,Google
 host-suffix,googleapis-cn.com,Google
 host-suffix,googleusercontent.com,Google
 host-suffix,app-measurement.com,Google
+host-suffix,googletagmanager.com,Google
+host-suffix,google-analytics.com,Google
+host-suffix,doubleclick.net,Google
+host-suffix,googleadservices.com,Google
 
 # GitHub
 host-suffix,github.com,GitHub
 host-suffix,githubassets.com,GitHub
 host-suffix,githubusercontent.com,GitHub
+
+# YouTube
+host-suffix,youtube.com,YouTube
+host-suffix,googlevideo.com,YouTube
+host-suffix,ytimg.com,YouTube
+host-suffix,ggpht.com,YouTube
+host-suffix,googleapis.com,YouTube
+host-suffix,googlesyndication.com,YouTube
