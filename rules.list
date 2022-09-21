@@ -17,7 +17,7 @@ IP-CIDR,91.108.0.0/16,Telegram
 host,ocsp.pki.goog,Google
 host-suffix,google.com,Google
 host-suffix,gstatic.com,Google
-host-suffix,google.com.hk,Goolge
+host-suffix,google.com.hk,Google
 host-suffix,withgoogle.com,Google
 host-suffix,googleapis-cn.com,Google
 host-suffix,googleusercontent.com,Google
