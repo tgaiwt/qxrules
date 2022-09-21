@@ -29,6 +29,7 @@ host-suffix,googleadservices.com,Google
 
 # GitHub
 host-suffix,github.com,GitHub
+host-suffix,github.blog,GitHub
 host-suffix,githubassets.com,GitHub
 host-suffix,githubusercontent.com,GitHub
 
