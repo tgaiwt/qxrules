@@ -41,12 +41,3 @@ HOST-SUFFIX,ytimg.com,YouTube
 HOST-SUFFIX,ggpht.com,YouTube
 HOST-SUFFIX,googleapis.com,YouTube
 HOST-SUFFIX,googlesyndication.com,YouTube
-
-#TikTok
-HOST-SUFFIX,tiktok.com,TikTok
-HOST-SUFFIX,tiktokv.com,TikTok
-HOST-SUFFIX,byteoversea.com,TikTok
-HOST-SUFFIX,tik-tokapi.com,TikTok
-HOST-SUFFIX,ipstatp.com,TikTok
-HOST-SUFFIX,ibytedtos.com,TikTok
-HOST-KEYWORD,tiktokcdn,TikTok
