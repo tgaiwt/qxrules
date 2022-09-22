@@ -10,8 +10,9 @@ host-suffix,mzstatic.com,Apple
 # Telegram
 host-suffix,t.me,Telegram
 host-suffix,telegram.org,Telegram
-IP-CIDR,149.154.160.0/20,Telegram
 IP-CIDR,91.108.0.0/16,Telegram
+IP-CIDR,95.161.64.0/20,Telegram
+IP-CIDR,149.154.160.0/20,Telegram
 
 # Google
 host,ocsp.pki.goog,Google
@@ -40,3 +41,6 @@ host-suffix,ytimg.com,YouTube
 host-suffix,ggpht.com,YouTube
 host-suffix,googleapis.com,YouTube
 host-suffix,googlesyndication.com,YouTube
+
+#TikTok
+host-suffix,tiktokv.com,TikTok
