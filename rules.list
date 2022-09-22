@@ -1,46 +1,49 @@
 # Apple
-host-suffix,apple.com,Apple
-host-suffix,apple.cn,Apple
-host-suffix,icloud.com,Apple
-host-suffix,icloud.com.cn,Apple
-host-suffix,cdn-apple.com,Apple
-host-suffix,digicert.com,Apple
-host-suffix,mzstatic.com,Apple
+HOST-SUFFIX,apple.com,Apple
+HOST-SUFFIX,apple.cn,Apple
+HOST-SUFFIX,icloud.com,Apple
+HOST-SUFFIX,icloud.com.cn,Apple
+HOST-SUFFIX,cdn-apple.com,Apple
+HOST-SUFFIX,digicert.com,Apple
+HOST-SUFFIX,mzstatic.com,Apple
 
 # Telegram
-host-suffix,t.me,Telegram
-host-suffix,telegram.org,Telegram
+HOST-SUFFIX,t.me,Telegram
+HOST-SUFFIX,telegram.org,Telegram
 IP-CIDR,91.108.0.0/16,Telegram
 IP-CIDR,95.161.64.0/20,Telegram
 IP-CIDR,149.154.160.0/20,Telegram
 
 # Google
-host,ocsp.pki.goog,Google
-host-suffix,google.com,Google
-host-suffix,gstatic.com,Google
-host-suffix,google.com.hk,Google
-host-suffix,withgoogle.com,Google
-host-suffix,googleapis-cn.com,Google
-host-suffix,googleusercontent.com,Google
-host-suffix,app-measurement.com,Google
-host-suffix,googletagmanager.com,Google
-host-suffix,google-analytics.com,Google
-host-suffix,doubleclick.net,Google
-host-suffix,googleadservices.com,Google
+HOST,ocsp.pki.goog,Google
+HOST-SUFFIX,google.com,Google
+HOST-SUFFIX,gstatic.com,Google
+HOST-SUFFIX,google.com.hk,Google
+HOST-SUFFIX,withgoogle.com,Google
+HOST-SUFFIX,googleapis-cn.com,Google
+HOST-SUFFIX,googleusercontent.com,Google
+HOST-SUFFIX,app-measurement.com,Google
+HOST-SUFFIX,googletagmanager.com,Google
+HOST-SUFFIX,google-analytics.com,Google
+HOST-SUFFIX,doubleclick.net,Google
+HOST-SUFFIX,googleadservices.com,Google
 
 # GitHub
-host-suffix,github.com,GitHub
-host-suffix,github.blog,GitHub
-host-suffix,githubassets.com,GitHub
-host-suffix,githubusercontent.com,GitHub
+HOST-SUFFIX,github.com,GitHub
+HOST-SUFFIX,github.blog,GitHub
+HOST-SUFFIX,githubassets.com,GitHub
+HOST-SUFFIX,githubusercontent.com,GitHub
 
 # YouTube
-host-suffix,youtube.com,YouTube
-host-suffix,googlevideo.com,YouTube
-host-suffix,ytimg.com,YouTube
-host-suffix,ggpht.com,YouTube
-host-suffix,googleapis.com,YouTube
-host-suffix,googlesyndication.com,YouTube
+HOST-SUFFIX,youtube.com,YouTube
+HOST-SUFFIX,googlevideo.com,YouTube
+HOST-SUFFIX,ytimg.com,YouTube
+HOST-SUFFIX,ggpht.com,YouTube
+HOST-SUFFIX,googleapis.com,YouTube
+HOST-SUFFIX,googlesyndication.com,YouTube
 
 #TikTok
-host-suffix,tiktokv.com,TikTok
+HOST-SUFFIX,tiktok.com,TikTok
+HOST-SUFFIX,tiktokv.com,TikTok
+HOST-SUFFIX,byteoversea.com,TikTok
+HOST-SUFFIX,tik-tokapi.com,TikTok
