@@ -5,6 +5,7 @@ HOST-SUFFIX,icloud.com,Apple
 HOST-SUFFIX,icloud.com.cn,Apple
 HOST-SUFFIX,cdn-apple.com,Apple
 HOST-SUFFIX,digicert.com,Apple
+HOST-SUFFIX,digicert.cn,Apple
 HOST-SUFFIX,mzstatic.com,Apple
 
 # Telegram
