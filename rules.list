@@ -45,7 +45,6 @@ HOST-SUFFIX,googleapis.com,YouTube
 HOST-SUFFIX,googlesyndication.com,YouTube
 
 # Microsoft
-HOST,sessions.bugsnag.com,Microsoft
 HOST-SUFFIX,msn.com,Microsoft
 HOST-SUFFIX,msn.cn,Microsoft
 HOST-SUFFIX,gfx.ms,Microsoft
