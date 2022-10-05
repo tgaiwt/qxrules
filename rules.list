@@ -16,6 +16,7 @@ IP-CIDR,95.161.64.0/20,Telegram
 IP-CIDR,149.154.160.0/20,Telegram
 
 # Google
+HOST,goo.gl,Google
 HOST,ocsp.pki.goog,Google
 HOST-SUFFIX,google.com,Google
 HOST-SUFFIX,gstatic.com,Google
@@ -50,7 +51,9 @@ HOST-SUFFIX,gfx.ms,Microsoft
 HOST-SUFFIX,live.com,Microsoft
 HOST-SUFFIX,bing.com,Microsoft
 HOST-SUFFIX,bing.net,Microsoft
+HOST-SUFFIX,msedge.net,Microsoft
 HOST-SUFFIX,windows.com,Microsoft
+HOST-SUFFIX,office365.com,Microsoft
 HOST-SUFFIX,office.com,Microsoft
 HOST-SUFFIX,office.net,Microsoft
 HOST-SUFFIX,azure.com,Microsoft
